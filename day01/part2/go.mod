@@ -1,4 +1,4 @@
-module advent24/01/part2
+module advent24/01/part1
 
 go 1.23.1
 
